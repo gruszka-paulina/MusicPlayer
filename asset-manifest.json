@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MusicPlayer/static/css/main.333cc202.css",
-    "main.js": "/MusicPlayer/static/js/main.d87bf330.js",
-    "static/js/453.6babfd3c.chunk.js": "/MusicPlayer/static/js/453.6babfd3c.chunk.js",
-    "index.html": "/MusicPlayer/index.html",
-    "main.333cc202.css.map": "/MusicPlayer/static/css/main.333cc202.css.map",
-    "main.d87bf330.js.map": "/MusicPlayer/static/js/main.d87bf330.js.map",
-    "453.6babfd3c.chunk.js.map": "/MusicPlayer/static/js/453.6babfd3c.chunk.js.map"
+    "main.css": "https://milakropeczka.github.io/MusicPlayer/static/css/main.333cc202.css",
+    "main.js": "https://milakropeczka.github.io/MusicPlayer/static/js/main.5644a3a0.js",
+    "static/js/453.6babfd3c.chunk.js": "https://milakropeczka.github.io/MusicPlayer/static/js/453.6babfd3c.chunk.js",
+    "index.html": "https://milakropeczka.github.io/MusicPlayer/index.html",
+    "main.333cc202.css.map": "https://milakropeczka.github.io/MusicPlayer/static/css/main.333cc202.css.map",
+    "main.5644a3a0.js.map": "https://milakropeczka.github.io/MusicPlayer/static/js/main.5644a3a0.js.map",
+    "453.6babfd3c.chunk.js.map": "https://milakropeczka.github.io/MusicPlayer/static/js/453.6babfd3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.333cc202.css",
-    "static/js/main.d87bf330.js"
+    "static/js/main.5644a3a0.js"
   ]
 }
